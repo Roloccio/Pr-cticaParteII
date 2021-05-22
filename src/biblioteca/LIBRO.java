@@ -44,15 +44,15 @@ public class LIBRO {
             System.out.println("El ISBN no es correcto");
         }
     }
-
+//consultaTitulo
     public String consultaTitulo() {
         return Titulo;
     }
-
+//consultaAutor
     public String consultaAutor() {
         return Autor;
     }
-
+//consultaISBN
     public String consultaISBN() {
         return ISBN;
     }
