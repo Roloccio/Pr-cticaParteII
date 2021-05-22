@@ -129,7 +129,7 @@ public class Biblioteca {
                 System.out.println("El Titulo es " + spiderman.consultaTitulo() + " El autor es " + spiderman.consultaAutor() + " El ISBN es " + spiderman.consultaISBN());
                 break;
             case 0:
-
+                System.out.println("Hasta la proxima");
                 break;
 
         }
