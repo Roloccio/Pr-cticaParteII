@@ -16,9 +16,9 @@ public class LIBRO {
 
     //A continuación creamos los constructores, primero el por defecto y después el de parámetros
     public LIBRO() {
-        Autor = "";
-        Titulo = "";
-        ISBN = "";
+        Autor = "principito";
+        Titulo = "velazquez";
+        ISBN = "233443";
     }
 
     public LIBRO(String Autor, String Titulo, String ISBN) {
